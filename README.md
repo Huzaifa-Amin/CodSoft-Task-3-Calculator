@@ -1,7 +1,7 @@
-CodSoft .
-Level 1 - Task 3 .
+# CodSoft .
+## Level 1 - Task 3 .
 
-Building a Calculator :
+### Building a Calculator :
 
 To create a basic calculator using CSS, HTML, you'll need to implement an
 interactive interface with buttons for addition, subtraction, multiplication, and division
